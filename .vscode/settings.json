@@ -1,0 +1,13 @@
+{
+    "[go]": {
+        "editor.formatOnSave": false
+    },
+    "go.lintTool": "golangci-lint",
+    "git.autofetch": true,
+    "go.testOnSave": true,
+    "go.lintOnSave": "package",
+    "go.formatTool": "goimports",
+    "go.useLanguageServer": false,
+    "go.autocompleteUnimportPackages": true,
+    "go.toolsManagement.autoUpdate": true
+}
